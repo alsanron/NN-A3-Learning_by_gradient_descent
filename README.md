@@ -3,4 +3,5 @@ Assignment 3 for the course Neural Networks and computational intelligence from 
 
 Learning by gradient descent:
 
-The main assignment is ...
+The main assignment is to formulate and implement a stochastic gradient descent procedure to get acquainted with gradient descent based training of layered
+networks and to do some hands on experiments.
